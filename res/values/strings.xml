@@ -1,3 +1,23 @@
-<resources>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2" >
     <string name="app_name">Just Java</string>
+
+    <!-- list of toppings char limit [20] -->
+    <string name = "Coffee">Coffee</string>
+    <string name = "Latte">Latte</string>
+    <string name = "Americano">Americano</string>
+    <string name = "Mocha">Mocha</string>
+    <string name = "Tea">Tea</string>
+
+    <string name = "Toppings">Toppings</string>
+    <string name = "name">Name</string>
+    <string name = "Cream">Whipped Cream</string>
+    <string name = "Chocolate">Chocolate</string>
+    <string name = "order">Order</string>
+
+
+    <string name = "thank_you">Thank you!</string>
+
+    // this replaces the previous "Name: " + clientname client name fills in blank spot
+    <string name = "order_summary_name">Name: <xliff:g id="name" example="Amy">%s</xliff:g></string>
+
 </resources>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">亚当点咖啡软件</string>
+    <string name="Chocolate">巧克力</string>
+    <string name="Cream">奶油</string>
+    <string name="Toppings">甜品酱</string>
+    <string name="name">名字</string>
+    <string name="order">确认</string>
+    <string name="order_summary_name">订单摘要</string>
+    <string name="thank_you">谢谢！</string>
+    <string name="Americano">美洲</string>
+    <string name="Coffee">咖啡</string>
+    <string name="Latte">拿铁</string>
+    <string name="Mocha">摩卡</string>
+    <string name="Tea">茶</string>
+</resources>

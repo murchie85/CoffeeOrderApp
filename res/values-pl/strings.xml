@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Cafe Adas</string>
+    <string name="Chocolate">Czekolada</string>
+    <string name="Cream">Bita śmietana</string>
+    <string name="Toppings">Polewy</string>
+    <string name="name">Imie</string>
+    <string name="order">zamówić</string>
+    <string name="order_summary_name">podsumowanie zamowienia</string>
+    <string name="thank_you">Dziękuję Ci bardzo</string>
+    <string name="Americano">Americano</string>
+    <string name="Coffee">Kawa</string>
+    <string name="Latte">latte</string>
+    <string name="Mocha">Mokka</string>
+    <string name="Tea">Herbaty</string>
+</resources>
